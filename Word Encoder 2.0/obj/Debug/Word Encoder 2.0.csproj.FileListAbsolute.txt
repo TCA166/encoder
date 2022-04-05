@@ -1,0 +1,10 @@
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\bin\Debug\Word Encoder 2.0.exe.config
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\bin\Debug\Word Encoder 2.0.exe
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\bin\Debug\Word Encoder 2.0.pdb
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word Encoder 2.0.csprojAssemblyReference.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word_Encoder_2._0.Form1.resources
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word_Encoder_2._0.Properties.Resources.resources
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word Encoder 2.0.csproj.GenerateResource.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word Encoder 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word Encoder 2.0.exe
+C:\Users\lcm\Desktop\Programowanie\C#\Word Encoder 2.0\Word Encoder 2.0\Word Encoder 2.0\obj\Debug\Word Encoder 2.0.pdb
